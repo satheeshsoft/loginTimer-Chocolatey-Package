@@ -8,7 +8,7 @@
     <title>loginTimer</title>
     <authors>satheeshsoft</authors>    
     <projectUrl>https://logintimer.weebly.com</projectUrl>
-    <iconUrl>http://www.softcleaner.in/satheeshsoft/loginTimer-Icon128.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/satheeshsoft/loginTimer-Chocolatey-Package/master/loginTimer-Icon128.png</iconUrl>
     <copyright>2019 satheeshsoft</copyright>    
     <licenseUrl>http://www.softcleaner.in/privacy-policy</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>    
@@ -16,9 +16,9 @@
     <mailingListUrl>http://www.softcleaner.in/contact</mailingListUrl>
     <bugTrackerUrl>https://groups.google.com/forum/#!forum/satheeshsoft</bugTrackerUrl>
     <tags>login logintimer conflicts user local remote security privacy logintime logindate totlogin checklogin</tags>
-    <summary>Did You think about Your Computer Last Login Times and Dates?</summary>
+    <summary>Did you think about your computer last login Times and Dates?</summary>
     <description>Audit your computer login times. Time, date, total logins in days, local or remote, sidelonglogin. 30 days demo. Note: Copy 'loginTimer.exe' from 'C:\ProgramData\chocolatey\lib\loginTimer\tools' and paste in any private directory than system drive eg: d:\my private\loginTimer.exe. Right click 'Run as Administrator' for activation or change path. Official websites: https://logintimer.weebly.com http://www.softcleaner.in</description>
-    <releaseNotes>Main update</releaseNotes>    
+    <releaseNotes>Main update</releaseNotes>
   </metadata>
   <files>    
     <file src="tools\**" target="tools" />    
