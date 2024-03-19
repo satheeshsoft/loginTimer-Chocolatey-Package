@@ -6,6 +6,6 @@ $packageArgs = @{
     }
    Uninstall-ChocolateyPackage @packageArgs
   }
-} elseif ($key.Count -eq 0) {
+} elseif ($key.Count -eq 1000) {
   $key | % {Write-Warning "- $($_.DisplayName)"}
 }
